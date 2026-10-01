@@ -4,7 +4,8 @@ Sistema de gerenciamento de uma concessionária de veículos desenvolvido em Pyt
 
 ## 📸 Tela do sistema
 
-![Tela inicial da Concessionária Stheka](tela-inicial.png)
+<img width="982" height="481" alt="tela-inicial" src="https://github.com/user-attachments/assets/0dfe5b99-9bd6-4730-be49-f4bcb149f2e3" />
+
 
 ## 🛠️ Tecnologias utilizadas
 
