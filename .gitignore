@@ -1,9 +1,0 @@
-.env
-.json
-!package.json
-venv/
-.venv/
-_pycache__/
-*.pyc
-.streamlit/secrets.toml
-*firebase-adminsdk*.json
