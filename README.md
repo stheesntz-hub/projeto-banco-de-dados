@@ -1,10 +1,10 @@
-# 🚗 Concessionária Sheka
+# 🚗 Concessionária Stheka
 
 Sistema de gerenciamento de uma concessionária de veículos desenvolvido em Python com Streamlit e Firebase.
 
 ## 📸 Tela do sistema
 
-![Tela inicial da Concessionária Sheka](tela-inicial.png)
+![Tela inicial da Concessionária Stheka](tela-inicial.png)
 
 ## 🛠️ Tecnologias utilizadas
 
